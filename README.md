@@ -2,8 +2,7 @@
 
 A repo for the website I am working on as a passion project and a dump for a bunch of projects and things I work on such as:
 
- - List of my game rankings ported from my google spreadsheet @ https://docs.google.com/spreadsheets/d/1_qdCzzQjk7A518hrdNZ0H3wOM0N8tX10QfH2fi6L8s0/edit?gid=663571298#gid=663571298
- - A set of Hidden rankings iykyk
+ - List of my game rankings ported from my google spreadsheet @ https://docs.google.com/spreadsheets/d/1_qdCzzQjk7A518hrdNZ0H3wOM0N8tX10QfH2fi6L8s0
  - A projects page for whatever I decide to start to keep me busy
  - Maybe a blog type thing
  - Anything else I come up with!!!
