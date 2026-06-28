@@ -64,6 +64,11 @@ h1{
   color: #da9ae2;
 }
 
+.ranknav a.title{
+    background-color: #7c0042;
+    color: #db2967;
+}
+
 .ranknav a.active {
     background-color: #87054a;
     color: #db2967;
