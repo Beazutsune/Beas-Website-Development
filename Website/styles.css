@@ -1,17 +1,18 @@
+/*settings for the site as a whole*/
 body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
 }
 
-/*style config for the heading*/
+/*style config for the page heading*/
 h1{
     background-color: #600034;
     color: #db2967;
     padding: 1rem;
     text-align: left;
 }
-/*style config for the nav bar*/
+/*style config for the page nav bar*/
 .topnav{
     background-color: #600034;
     overflow: scroll;
@@ -38,3 +39,32 @@ h1{
     background-color: #87054a;
     color: #db2967;
 }
+ 
+/*Removing margins and bullets from ul elements*/
+.ranknav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #600034;
+ }
+
+/*Config for ranks navbar list*/
+/*Style config for links navbar, setting background and display*/
+.ranknav a {
+    display: block;
+    color: #db2967;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link and background color on hover */
+.ranknav a:hover {
+  background-color: #420928;
+  color: #da9ae2;
+}
+
+.ranknav a.active {
+    background-color: #87054a;
+    color: #db2967;
+ }
