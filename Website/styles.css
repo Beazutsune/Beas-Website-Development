@@ -42,11 +42,11 @@ h1{
  
 /*Removing margins and bullets from ul elements*/
 .ranknav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #600034;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #600034;
  }
 
 /*Config for ranks navbar list*/
@@ -60,8 +60,8 @@ h1{
 
 /* Change the link and background color on hover */
 .ranknav a:hover {
-  background-color: #420928;
-  color: #da9ae2;
+    background-color: #420928;
+    color: #da9ae2;
 }
 
 .ranknav a.title{
